@@ -1,0 +1,2 @@
+La seleccion de variables se realizo cuidadosamente estudiando las correlaciones entre las variables del conjunto de datos total, asi mismo se estudio que era lo que estas representaban y si es que la informacion contenida en alguna de ellas esta dentro de alguna de las otras variables.
+Seleccionando unicamente las variables independientes y que aportaban mayor informacion al conjunto de datos
